@@ -1,5 +1,11 @@
 # react-native-txlive
 
+标题：  
+封装的腾讯直播react native组件  
+备注：  
+组件支持安卓和iOS；  
+支持再定制化；
+
 关键词：  
 TXLiteAVSDK  
 腾讯直播  
@@ -7,13 +13,7 @@ TXLiteAVSDK
 RN直播  
 RN推拉流  
 react native 直播  
-react native 推拉流  
-
-标题：  
-封装的腾讯直播react native组件  
-备注：  
-组件支持安卓和iOS；  
-支持再定制化；
+react native 推拉流
 
 目前已有功能：  
 1.推流  
