@@ -10,10 +10,10 @@ react native 直播
 react native 推拉流  
 
 【标题】  
-封装的腾讯直播react native组件
-【备注】
+封装的腾讯直播react native组件  
+【备注】  
 组件支持安卓和iOS；  
-支持再定制化；  
+支持再定制化；
 
 目前已有功能：  
 1.推流  
