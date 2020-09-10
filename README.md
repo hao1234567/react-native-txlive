@@ -1,11 +1,11 @@
 # react-native-txlive
 
 腾讯直播  
-腾讯推拉流
-RN直播
-RN推拉流
-react native 直播
-react native 推拉流
+腾讯推拉流  
+RN直播  
+RN推拉流  
+react native 直播  
+react native 推拉流  
 
 基于腾讯TXLiteAVSDK封装的react native直播组件（支持安卓和iOS，支持再定制化）；
 
